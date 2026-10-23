@@ -9,9 +9,9 @@ require (
 	github.com/cbeuw/connutil v1.0.1
 	github.com/google/uuid v1.6.0
 	github.com/gorilla/websocket v1.5.3
-	github.com/pion/dtls/v3 v3.1.2
+	github.com/pion/dtls/v3 v3.1.4
 	github.com/pion/logging v0.2.4
-	github.com/pion/transport/v4 v4.0.1
+	github.com/pion/transport/v4 v4.0.2
 	github.com/pion/turn/v5 v5.0.3
 	github.com/xtaci/kcp-go/v5 v5.6.18
 	github.com/xtaci/smux v1.5.34
@@ -31,7 +31,7 @@ require (
 	github.com/klauspost/reedsolomon v1.12.4 // indirect
 	github.com/miekg/dns v1.1.72 // indirect
 	github.com/pion/randutil v0.1.0 // indirect
-	github.com/pion/stun/v3 v3.1.2 // indirect
+	github.com/pion/stun/v3 v3.1.5 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/quic-go/qpack v0.6.0 // indirect
 	github.com/tam7t/hpkp v0.0.0-20160821193359-2b70b4024ed5 // indirect
